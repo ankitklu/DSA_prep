@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 class Solution {
     public char kthCharacter(long k, int[] operations) {
         StringBuilder s = new StringBuilder("a");
