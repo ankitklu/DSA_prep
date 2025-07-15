@@ -50,7 +50,7 @@ class Solution {
 
         int day=0, idx=0, numberOfEvents=0;
 
-        PriorityQueue<Integer> pq = new PriorityQueue();
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
         while(!pq.isEmpty() || idx<n){
             if(pq.isEmpty()){

@@ -6,7 +6,7 @@ class Solution {
             map.put(ele, map.getOrDefault(ele,0)+1);
         }
 
-        int maxEle=0;
+        // int maxEle=0;
         int ele=-1;
         for(Integer key: map.keySet()){
             if(map.get(key)==key && key>ele){
