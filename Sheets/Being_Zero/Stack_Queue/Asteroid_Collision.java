@@ -1,4 +1,4 @@
-package Sheets.Being_Zero.Misc;
+package Sheets.Being_Zero.Stack_Queue;
 import java.util.*;
 
 public class Asteroid_Collision {
